@@ -6,3 +6,5 @@ song2notes_output/
 !tests/fixtures/*.wav
 input/*
 !input/.gitkeep
+output/*
+!output/.gitkeep
